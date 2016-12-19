@@ -1,0 +1,20 @@
+<!-- mine.wxml -->
+<view>
+	<view wx:if="{{userInfo}}" class="text-center">
+		<image style="width:120rpx;height:120rpx;border-radius:50%;" src="{{userInfo.avatarUrl}}"></image>
+		<view>{{userInfo.nickName}}</view>
+	</view>
+	<view wx:if="{{!userInfo}}" class="padding">
+		<button class="wa-primary" bindtap="login">登陆</button>
+	</view>
+	<view class="padding">
+		<button class="wa-primary" bindtap="location" bindtap="action">显示菜单</button>
+	</view>
+	<view class="wa-list">
+		<navigator class="wa-item" url="../map/map">地图相关</navigator>
+		<navigator class="wa-item" url="../systemInfo/systemInfo">系统信息</navigator>
+		<navigator class="wa-item" url="../audio/audio">音乐播放</navigator>
+		<navigator class="wa-item" url="../compass/compass">指南针</navigator>
+		<!-- <view class="wa-item" bindtap="getDoc">查看文档</view> -->
+	</view>
+</view>

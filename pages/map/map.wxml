@@ -1,0 +1,11 @@
+<!-- map.wxml -->
+<view class="padding">
+	<button class="wa-primary" bindtap="location">打开地图</button>
+</view>
+<view class="padding">
+	<button class="wa-primary" bindtap="choose">选择位置</button>
+</view>
+{{choose.name}}
+{{choose.address}}
+{{choose.latitude}}
+{{choose.longitude}}

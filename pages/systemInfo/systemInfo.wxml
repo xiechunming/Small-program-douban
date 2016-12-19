@@ -1,0 +1,16 @@
+<!-- systemInfo.wxml -->
+<view class="padding">
+	<button class="wa-success" bindtap="getSys">显示系统信息</button>
+</view>
+<view class="padding">
+	<button class="wa-success" bindtap="getNetwork">显示网络状态</button>
+</view>
+<view class="padding">
+	<view>手机型号：{{sys.model}}</view>
+	<view>设备像素比：{{sys.pixelRatio}}</view>
+	<view>窗口宽度：{{sys.windowWidth}}</view>
+	<view>窗口高度：{{sys.windowHeight}}</view>
+	<view>微信设置的语言：{{sys.language}}</view>
+	<view>微信版本号：{{sys.version}}</view>
+	<view>网络状态：{{network}}</view>
+</view>

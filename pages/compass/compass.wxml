@@ -1,0 +1,4 @@
+<!-- compass.wxml -->
+<view style="display:flex;height:80%;align-items: center;justify-content: center;">
+	<view class="text-center" style="font-size:100rpx">{{direction}}</view>
+</view>
