@@ -6,14 +6,14 @@
 - movie(电影详情页，点击电影列表进入)
 - search(搜索页面，搜索关键词，展现相关电影)
 - mine(个人页面，用于展现微信功能API用法)
-#效果图
-![](https://github.com/xiechunming/Small-program-douban/blob/master/d1.png)-
-![](https://github.com/xiechunming/Small-program-douban/blob/master/d2.png)-
-![](https://github.com/xiechunming/Small-program-douban/blob/master/dn.png)-
-![](https://github.com/xiechunming/Small-program-douban/blob/master/d3.png)-
-![](https://github.com/xiechunming/Small-program-douban/blob/master/d4.png)-
-![](https://github.com/xiechunming/Small-program-douban/blob/master/d5.png)-
-![](https://github.com/xiechunming/Small-program-douban/blob/master/d6.png)-
+# 效果图
+- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d1.png)
+- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d2.png)
+- ![](https://github.com/xiechunming/Small-program-douban/blob/master/dn.png)
+- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d3.png)
+- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d4.png)
+- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d5.png)
+- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d6.png)
 微信小程序组件如此之丰富、你还需要重量级的组件库来冗余代码吗？
 
 所以只需要Wa-UI这个轻量级的库很快捷的做布局就可以了
