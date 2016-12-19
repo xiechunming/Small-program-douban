@@ -9,11 +9,11 @@
 
 ##效果图
 - ![](https://github.com/xiechunming/Small-program-douban/blob/master/d1.png)
-- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d2.png)
+  ![](https://github.com/xiechunming/Small-program-douban/blob/master/d2.png)
 - ![](https://github.com/xiechunming/Small-program-douban/blob/master/dn.png)
-- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d3.png)
+  ![](https://github.com/xiechunming/Small-program-douban/blob/master/d3.png)
 - ![](https://github.com/xiechunming/Small-program-douban/blob/master/d4.png)
-- ![](https://github.com/xiechunming/Small-program-douban/blob/master/d5.png)
+  ![](https://github.com/xiechunming/Small-program-douban/blob/master/d5.png)
 - ![](https://github.com/xiechunming/Small-program-douban/blob/master/d6.png)
 微信小程序组件如此之丰富、你还需要重量级的组件库来冗余代码吗？
 
