@@ -1,5 +1,9 @@
 # Small-program-douban
 微信小程序豆瓣电影及其基本API源码结构分析
+## 联系方式
+手机同微信：18516292849，欢迎大家多多交流
+## 使用说明
+直接新建无APPID工程，将项目导入即可（若是有APPID工程，因为服务器配置问题，豆瓣接口将无法请求数据）
 # 功能样式
 主要有八个页面index,movie,search,mine,systemInfo,audio,map,compass，其中index,movie,search实现电影展示和搜索功能，其他页面展示微信几大基本API用法；
 - index(首页，调去豆瓣借口获取推荐电影列表)
