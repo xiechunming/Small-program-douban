@@ -26,3 +26,6 @@
   ![](https://github.com/xiechunming/Small-program-douban/blob/master/d5.png)
 - ![](https://github.com/xiechunming/Small-program-douban/blob/master/d6.png)
 
+
+## Author
+- 晓丶离乡，做小程序之前从事安卓开发工作两年，微信小程序推出之后转移阵地，目前专注于微信小程序开发，微信公众号后台接口开发，及其微信相关产品设计运维等工作。 联系方式： 手机同微信:18516292849,邮箱:akatsuki091311@gmail.com。
